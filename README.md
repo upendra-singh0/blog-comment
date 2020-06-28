@@ -10,4 +10,4 @@
 
 Use 6 different terminals to run this project (1 web client and 5 services).
 
-![Alt text](/docs/microservice.png?raw=true 'image to show services')
+![Alt text](https://github.com/upendra-singh0/blog-comment/blob/master/doc/microservice.png?raw=true 'image to show services')
